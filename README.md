@@ -4,7 +4,7 @@ A command line tool written to provide up-to-date info on the status of the Lond
 
 ## Installation
 
-`pip install london-underground-cli`
+`pip install tube-cli`
 
 ## Usage
 
