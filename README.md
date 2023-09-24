@@ -1,3 +1,6 @@
+# NO LONGER FUNCTIONING
+If you would like another tool like this, visit my [TfL Status Page](https://tfl.cxllm.uk)
+
 # Underground Status CLI
 
 A command line tool written to provide up-to-date info on the status of the London Underground. It fetches data directly from the TfL API, and provides the status plus info of every tube line, plus the Overground, TfL Rail, Docklands Light Railway and Trams in South East London.
